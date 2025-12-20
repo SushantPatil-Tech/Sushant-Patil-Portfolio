@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sushant Patil - Portfolio
 
 A modern, responsive portfolio website built with React, Vite, and Tailwind CSS. Showcasing full-stack development skills, projects, and experience.
@@ -118,3 +119,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 **Built with ❤️ by Sushant Patil**
+=======
+# Sushant-Patil-Portfolio
+>>>>>>> 363f97241025457aac7cd180a5b6e8c56c1c3630
